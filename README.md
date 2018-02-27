@@ -1,5 +1,5 @@
 ### 1. Setup
-Download path
+Download path: https://golang.org/dl/
 ```
 https://golang.org/dl/
 ```

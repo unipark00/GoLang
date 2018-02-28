@@ -12,7 +12,7 @@ Go includes the same sort of debugging, testing, and code-vetting tools as many 
 
 * ```go build```, which builds Go binaries using only information in the source files themselves, no separate makefiles  
   * ```go test```, for unit testing and microbenchmarks
-go fmt, for formatting code
+    * ```go fmt```, for formatting code
 go get, for retrieving and installing remote packages
 go vet, a static analyzer looking for potential errors in code
 go run, a shortcut for building and executing code

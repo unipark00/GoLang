@@ -4,8 +4,8 @@
 https://dl.google.com/go/go1.10.windows-amd64.msi
 
 2) Environment Variables
-* User variables  : GOROOT = C:\Go
-* System variables: add %GOROOT%\bin to "Path"
+* User variables  : ```GOROOT = C:\Go```
+* System variables: add ```%GOROOT%\bin``` to ```Path```
 
 ### [ Tools ]
 Go includes the same sort of debugging, testing, and code-vetting tools as many language distributions. The Go distribution includes, among other tools,  

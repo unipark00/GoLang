@@ -34,4 +34,6 @@ continue     for          import       return       var
 ```
 ### [ Link ]
 * Golang Korea facebook group : https://github.com/arahansa/golkorea  
-* 가장 빨리 만나는 Go 언어 : https://github.com/pyrasis/golangbook
+* 가장 빨리 만나는 Go 언어  
+  * http://www.pyrasis.com/book/GoForTheReallyImpatient
+  * https://github.com/pyrasis/golangbook

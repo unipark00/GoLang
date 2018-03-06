@@ -33,6 +33,12 @@ const        fallthrough  if           range        type
 continue     for          import       return       var
 ```
 ### [ Link ]
+|Title|URL|
+|-----|---|
+|Golang Korea facebook group|https://github.com/arahansa/golkorea|
+|가장 빨리 만나는 Go 언어|* http://www.pyrasis.com/book/GoForTheReallyImpatient<br>* https://github.com/pyrasis/golangbook|
+
+
 * Golang Korea facebook group
   * https://github.com/arahansa/golkorea  
 * 가장 빨리 만나는 Go 언어  

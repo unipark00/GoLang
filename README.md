@@ -36,7 +36,7 @@ continue     for          import       return       var
 |Title|URL|
 |-----|---|
 |Golang Korea facebook group|https://github.com/arahansa/golkorea|
-|가장 빨리 만나는 Go 언어|<ul><li>http://www.pyrasis.com/book/GoForTheReallyImpatient</li><li>https://github.com/pyrasis/golangbook</li></ul>|
+|가장 빨리 만나는 Go 언어|<li>http://www.pyrasis.com/book/GoForTheReallyImpatient</li><li>https://github.com/pyrasis/golangbook</li>|
 
 * Golang Korea facebook group
   * https://github.com/arahansa/golkorea  

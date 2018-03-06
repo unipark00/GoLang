@@ -34,14 +34,7 @@ continue     for          import       return       var
 ```
 ### [ Link ]
 |Title|URL|
-|-----|---|
+|-|-|
+|Visual Studio Code (VSCode)|https://github.com/Microsoft/vscode-go|
 |Golang Korea facebook group|https://github.com/arahansa/golkorea|
 |가장 빨리 만나는 Go 언어|<li>http://www.pyrasis.com/book/GoForTheReallyImpatient</li><li>https://github.com/pyrasis/golangbook</li>|
-
-* Golang Korea facebook group
-  * https://github.com/arahansa/golkorea  
-* 가장 빨리 만나는 Go 언어  
-  * http://www.pyrasis.com/book/GoForTheReallyImpatient
-  * https://github.com/pyrasis/golangbook
-* Visual Studio Code (VSCode)
-  * https://github.com/Microsoft/vscode-go
